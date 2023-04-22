@@ -16,4 +16,4 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 ##
-![Anurag's GitHub stats](https://github.com/NicolasNun)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasNun&show_icons=true&theme=tokyonight)
