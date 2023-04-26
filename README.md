@@ -1,6 +1,6 @@
 # Nicolas Santos
 
-### Estudante de Desenvolvimento de Sistemas
+### Estudante de Análise e Desenvolvimento de Sistemas
 
 ## Conhecimentos:
 
