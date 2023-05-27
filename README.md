@@ -19,3 +19,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NicolasNun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNun&layout=compact&langs_count=7&theme=tokyonight"/>  
 </div>
+  
+##
+<div align="center">
+![Snake animation](https://github.com/NicolasNun/NicolasNun/blob/output/github-contribution-grid-snake.svg)
+</div>
